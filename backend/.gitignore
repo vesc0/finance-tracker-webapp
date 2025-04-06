@@ -1,0 +1,32 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish
+**/publish/
+**/publishprofile/
+
+# Others
+*.dbmdl
+*.pdb
+*.cache
+*.pidb
+*.svclog
+*.tlog
+*.vspscc
+*.vssscc
